@@ -1,0 +1,44 @@
+
+
+.success{
+    display: block;
+    background-color: lightblue;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+  }
+  .current-date {
+    color: aliceblue;
+    margin-right: 70%;
+    padding: auto;
+  }
+  
+  .navbar-logo {
+    padding: 5px;
+  }
+  
+  .navbar-logo img {
+    height: 30px;
+    padding: 5px;
+    border-radius: 50%;
+  }
+  .navbar-logo {
+    margin-left: 100;
+  }
+  .nav-item {
+    color: aliceblue;
+    padding: auto;
+  }
+  .nav-item2 {
+    padding-left: 20px;
+  
+    margin-right: 100px;
+    height: 30px;
+    margin-top: 9px;
+  }
+  
+  .nav-item3 {
+    margin-left: 300px;
+    margin: top 9px;
+  }
